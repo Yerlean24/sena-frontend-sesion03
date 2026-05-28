@@ -2,7 +2,7 @@
 
 ## Información del aprendiz
 
-- **Fecha de entrega:** 21/04/2025
+- **Fecha de entrega:** 21/04/2026
 - **Nombre:** Yerson Leandro Quesada Varón
 - **Número de ficha:** 3267541
 - **Competencia:** CONSTRUCCIÓN DEL SOFTWARE
